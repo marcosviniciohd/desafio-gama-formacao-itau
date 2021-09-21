@@ -1,4 +1,4 @@
-# Projeto Itaú Formação Tech Edição
+# Projeto Formação Tech Itaú
 ## Site de notícias
 ### Dose de Esperança
 
@@ -15,7 +15,7 @@ O site tem por objetivo trazer informações com um pouco de esperança ao povo 
 
 #### Autoria
 
-**Número do grupo:** 18
+**Grupo:** 18
 
 **Nome do grupo:** Grupo 18 - Dose de Esperança
 
