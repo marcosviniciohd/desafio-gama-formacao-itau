@@ -75,9 +75,9 @@ ul {
 }
 
 body.home #navegacao a#home,
-body.brasil #navegacao a#brasil, 
-body.internacional #navegacao a#internacional,
-body.fotos #navegacao a#fotos 
+body.sobre #navegacao a#sobre, 
+body.contato #navegacao a#contato,
+body.sabia-mais #navegacao a#sabia-mais 
 {
 	color: #fff;
 	background: #de003e;
