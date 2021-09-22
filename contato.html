@@ -10,7 +10,7 @@
 
 </head>
 
-<body id="uma-coluna" class="home">
+<body id="uma-coluna" class="contato">
 
 	<!-- Início container -->
 	<div id="container">
@@ -42,36 +42,37 @@
 			<div id="primario">
 
 				<div class="caixa destaque">
-					<h2>Destaque</h2>
+					<h2>FALE CONOSCO</h2>
 					<div class="caixa-conteudo">
-
-						<h3>Enfermeiro remove tubo de sua própria mãe que venceu Covid-19 no Espírito Santo</h3>
-						<img class="imagem-principal" src="imagens/enfermeiro-com-sua-mae.jpg" width="100%"
-							alt="Imagem de um enfermeiro abraçando sua Mãe">
-						<p>
-							O enfermeiro Ercílio Felix das Neves Neto tirou o tubo da própria mãe, Tânia Aparecida
-							Fernandes, que ficou mais de 20 dias internada em uma UTI e sobreviveu à Covid-19, em
-							Cachoeiro de Itapemirim, no Sul do Espírito Santo.
-						</p>
-						<p>
-							Ercílio, enquanto atuava na linha de frente no combate ao novo coronavírus no Hospital
-							Materno Infantil Francisco de Assis (Hifa), teve que passar por momentos complicados, pois
-							sua <strong>mãe estava internada em estado grave</strong>.
-						</p>
-						<p>
-							Para poupá-lo, quando a mãe foi intubada, a equipe pediu para que o enfermeiro se retirasse.
-							Mas, na extubação — momento de tirar o tubo — foi diferente. <strong>A equipe fez questão
-								que ele participasse daquele momento de recuperação</strong>. Lindo gesto!
-						</p>
-						<p class="espacamento">
-							<em>
-								“Naquele momento eu senti uma leveza no corpo, uma paz literalmente. O que a equipe do
-								HIFA fez pela minha mãe não tem preço, tenho uma gratidão eterna por todos e muito
-								orgulho de fazer parte dessa equipe.”
-							</em>
-						<p class="espacamento">Fonte: <a href="http://www.hifa.org.br/noticias/ver.asp?codigo=2430"
-								target="_blank" title="HIFA">HIFA</a> </p>
-						</p>
+						<h3>Preencha o formulário, o mais breve possível retornaremos o contato</h3>
+						<form action="" class="espacamento">
+							<fieldset>
+								<legend>INSIRA SEUS DADOS</legend>
+								<div>
+									<label for="nome">Nome:</label>
+									<input type="text" name="nome" id="nome" required>
+								</div>
+								<div>
+									<label for="email">E-mail:</label>
+									<input type="email" name="email" id="email" required>
+								</div>
+								<div>
+									<label for="telefone">Telefone:</label>
+									<input type="tel" name="telefone" id="telefone" required>
+								</div>
+							</fieldset>
+							<fieldset>
+								<legend>COMENTÁRIOS</legend>
+								<div>
+									<label for="mensagem">Mensagem:</label>
+									<textarea name="mensagem" id="mensagem" required></textarea>
+								</div>
+							</fieldset>
+							<div class="centralizar">
+								<input type="submit" value="ENVIAR" class="submit centralizar">
+							</div>
+						</form>		
+						
 					</div>
 				</div>
 
@@ -80,7 +81,6 @@
 		</div><!-- fim /conteudo -->
 
 	</div><!-- fim /container -->
-
 	<div id="container-rodape" style="clear: both;">
 		<div id="rodape">
 			&copy; Copyright 2000-2021 - Dose de Esperança Notícias

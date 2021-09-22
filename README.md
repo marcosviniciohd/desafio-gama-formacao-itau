@@ -22,6 +22,6 @@ O site tem por objetivo trazer informações com um pouco de esperança ao povo 
 - **Membros**
   - [Marcos Vinício](https://github.com/marcosviniciohd)
   - Franciane Silva
-  - Leandro da Silva
+  - [Leandro da Silva](https://github.com/ricoremedio)
   - Gilmar Trindade
   - Ricardo Remédio

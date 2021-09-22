@@ -176,6 +176,36 @@ input.submit {
 	border: 2px solid #870529;
 }
 
+fieldset{
+	margin: 1em 0;
+	padding: 1em;
+	border: 1px solid #ccc;
+	background: #f8f8f8;
+}
+
+legend{
+	font-weight: bold;
+}
+
+label{
+	display: block;
+	cursor: pointer;
+}
+
+fieldset input{
+	width: 20em;
+}
+
+textarea{
+	width: 23em;
+	height: 12.9em;
+}
+
+.centralizar{
+	text-align: center;
+	border-radius: 10px;
+	font-weight: bold;
+}
 /*Formatando imagens*/
 img.imagem-principal {
 	width: 98%;
@@ -235,6 +265,7 @@ h3 {
 .espacamento{
 	margin-top: 20px;
 }
+
 
 /*Rodape*/
 #container-rodape {
